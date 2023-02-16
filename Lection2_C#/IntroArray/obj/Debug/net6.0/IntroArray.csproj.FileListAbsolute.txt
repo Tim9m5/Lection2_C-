@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\bin\Debug\net6.0\IntroArray.exe
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\bin\Debug\net6.0\IntroArray.deps.json
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\bin\Debug\net6.0\IntroArray.runtimeconfig.json
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\bin\Debug\net6.0\IntroArray.dll
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\bin\Debug\net6.0\IntroArray.pdb
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\IntroArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\IntroArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\IntroArray.AssemblyInfo.cs
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\IntroArray.dll
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\refint\IntroArray.dll
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\IntroArray.pdb
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\IntroArray.genruntimeconfig.cache
+C:\Users\user\Desktop\Lection2_C#\Lection2_C#\IntroArray\obj\Debug\net6.0\ref\IntroArray.dll
